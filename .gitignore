@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+log_edge2.csv
+.env
